@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a0e8fca-425f-4d54-898b-5c206c537041" name="Default" comment="" />
+    <list default="true" id="5a0e8fca-425f-4d54-898b-5c206c537041" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,51 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="part1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week3 homework/part1.html">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="7" lean-forward="false" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="part2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week3 homework/part2.html">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="42" column="7" lean-forward="false" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="part3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week3 homework/part3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="46" column="7" lean-forward="false" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="part4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week3 homework/part4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="54">
+              <caret line="3" column="575" lean-forward="false" selection-start-line="3" selection-start-column="575" selection-end-line="3" selection-end-column="575" />
               <folding />
             </state>
           </provider>
@@ -85,6 +60,9 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -103,6 +81,8 @@
         <option value="$PROJECT_DIR$/week2 homework/part1.html" />
         <option value="$PROJECT_DIR$/week2 homework/part2.html" />
         <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -138,13 +118,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="coursera" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coursera" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coursera" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coursera" type="462c0819:PsiDirectoryNode" />
-              <item name="1week" type="462c0819:PsiDirectoryNode" />
+              <item name="coursera-html_css_js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coursera-html_css_js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,22 +172,24 @@
       <workItem from="1503905997284" duration="4326000" />
       <workItem from="1504879726948" duration="2903000" />
       <workItem from="1527580790513" duration="68000" />
+      <workItem from="1527582594480" duration="1604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30146000" />
+    <option name="totallyTimeSpent" value="31750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18777293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18777293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33009708" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -235,364 +212,67 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/01_html_example_css_file.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/03_html_example_css_embedded.html">
+    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/05_html_example_css_id.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/04_html_example_id.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-4_more_on_style/03_html_example_css_pseudo.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/01_html_example_table.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/02_html_example_table_class.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/03_html_example_table_class.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/04_html_example_table_class.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/01_html_example_div01.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/02_html_example_div02.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/03_html_example_div_pos01.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/04_html_example_div_pos02.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/05_html_example_span01.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-1_html_form_basics/01_html_example_form_textarea.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-1_html_form_basics/02_html_example_form_textarea_submit.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/01_html_example_form_textarea_submit.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/02_html_example_form_text_checkbox_radio.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/03_html_example_form_password.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/04_html_example_form_password_bad.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/05_html_example_form_list.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/06_html_example_form_attributes.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-02_multimedia/02_multimedia/1-2-1_images/01_html_example_image.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-02_multimedia/02_multimedia/1-2-1_images/04_html_example_image.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-02_multimedia/02_multimedia/1-2-1_images/02_html_example_image.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-05_grouping/05_grouping/1-5-1_element_grouping/01_html_example_form_fieldset_legend01.html" />
+    <entry file="file://$PROJECT_DIR$/1week/1-02_multimedia/02_multimedia/1-2-1_images/03_html_example_image.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-02_basics_of_javascript/02_basics_of_javascript/2-2-01_variables/01_variables_data_type.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/01_onload_event.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/02_onload_event2.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/03_function_simple.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/04_function2.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/05_function_recursive.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/03_if_else3.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/02_if_else2.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/05_switch.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/06_switch2.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/04_if_else4.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/01_if_else1.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-02_while_loop/02_do_while.html" />
+    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-02_while_loop/01_while.html" />
+    <entry file="file://$PROJECT_DIR$/week1 homework/part3.html" />
+    <entry file="file://$PROJECT_DIR$/week1 homework/part2.html" />
+    <entry file="file://$PROJECT_DIR$/week1 homework/part1.html" />
+    <entry file="file://$PROJECT_DIR$/week2 homework/part1.html" />
+    <entry file="file://$PROJECT_DIR$/week2 homework/part2.html" />
+    <entry file="file://$PROJECT_DIR$/week3 homework/part2.html" />
+    <entry file="file://$PROJECT_DIR$/week3 homework/part3.html" />
+    <entry file="file://$PROJECT_DIR$/week3 homework/part1.html" />
+    <entry file="file://$PROJECT_DIR$/week3 homework/part4.html" />
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/05_html_example_css_id.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/04_html_example_id.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-4_more_on_style/03_html_example_css_pseudo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/01_html_example_table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/02_html_example_table_class.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/03_html_example_table_class.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/04_html_example_table_class.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/01_html_example_div01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/02_html_example_div02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="78" lean-forward="false" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/03_html_example_div_pos01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/04_html_example_div_pos02.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="3" column="53" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/05_html_example_span01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-1_html_form_basics/01_html_example_form_textarea.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-1_html_form_basics/02_html_example_form_textarea_submit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/01_html_example_form_textarea_submit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/02_html_example_form_text_checkbox_radio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/03_html_example_form_password.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/04_html_example_form_password_bad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/05_html_example_form_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/06_html_example_form_attributes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-02_multimedia/02_multimedia/1-2-1_images/01_html_example_image.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-02_multimedia/02_multimedia/1-2-1_images/04_html_example_image.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-02_multimedia/02_multimedia/1-2-1_images/02_html_example_image.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-05_grouping/05_grouping/1-5-1_element_grouping/01_html_example_form_fieldset_legend01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1week/1-02_multimedia/02_multimedia/1-2-1_images/03_html_example_image.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-02_basics_of_javascript/02_basics_of_javascript/2-2-01_variables/01_variables_data_type.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/01_onload_event.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/02_onload_event2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/03_function_simple.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/04_function2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/05_function_recursive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/03_if_else3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/02_if_else2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/05_switch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/06_switch2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/04_if_else4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/01_if_else1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="51" lean-forward="true" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-02_while_loop/02_do_while.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2week/2-03_decisions_and_loops/03_decisions_and_loops/2-3-02_while_loop/01_while.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1 homework/part3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1548">
-          <caret line="86" column="46" lean-forward="true" selection-start-line="86" selection-start-column="46" selection-end-line="86" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1 homework/part2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1233">
-          <caret line="82" column="46" lean-forward="false" selection-start-line="82" selection-start-column="46" selection-end-line="82" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1 homework/part1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="46" column="46" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="46" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2 homework/part1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2 homework/part2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="43" column="19" lean-forward="false" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week3 homework/part2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="42" column="7" lean-forward="false" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week3 homework/part3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="46" column="7" lean-forward="false" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week3 homework/part1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="7" lean-forward="false" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week3 homework/part4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <caret line="3" column="575" lean-forward="false" selection-start-line="3" selection-start-column="575" selection-end-line="3" selection-end-column="575" />
           <folding />
         </state>
       </provider>
